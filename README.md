@@ -6,29 +6,20 @@
 
 
 ## Concluído:
-<<<<<<< HEAD
-<hr>
-=======
->>>>>>> 3ca02aa3d7e4191ec12aac0fb14e435742067b9c
+
 - [x] Comunicação e redação Técnica
 - [x] Informática Aplicada
 - [x] Fundamentos de Tecnologia da Informação
 - [x] Lógica de Programação
 
 ## Etapas implementadas:
-<<<<<<< HEAD
-<hr>
-=======
->>>>>>> 3ca02aa3d7e4191ec12aac0fb14e435742067b9c
+
 - [x] Criação do repositório no GitHub.
 - [x] Criação de uma aplicação console usando .NET
 - [x] Implementação de funcionalidades do codigo.
 
 ## Backlog:
-<<<<<<< HEAD
-<hr>
-=======
->>>>>>> 3ca02aa3d7e4191ec12aac0fb14e435742067b9c
+
 - [ ] Interface Web
 - [ ] Programação Client-Side
 - [ ] Teste de Front-End
@@ -41,9 +32,5 @@
 - [ ] Projeto de Inovação: Trabalho de Conclusão do Curso
 
 ## Conclusão:
-<<<<<<< HEAD
-<hr>
+
 Estou cursando informática de internet aplicação no SENAI em Ipatinga, minha sala da minha acessibilidade intérprete de Libras Samuel e professor Charlon.
-=======
-Estou cursando informática de internet aplicação no SENAI em Ipatinga, minha sala da minha acessibilidade intérprete de Libras Samuel e professor Charlon.
->>>>>>> 3ca02aa3d7e4191ec12aac0fb14e435742067b9c
